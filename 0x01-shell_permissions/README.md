@@ -9,3 +9,4 @@
 8. 7-everybody -> A script that does no 7 but without commas
 9. 8-James_bond -> Write a script that sets the permission to the file helloto no owner, Group but User all permission
 10. 9-John_Doe -> A script that grnat permission to hello in the format rwxr-x-wx
+11. 10-mirror_permissions -> Mirroring permission from a file to another
