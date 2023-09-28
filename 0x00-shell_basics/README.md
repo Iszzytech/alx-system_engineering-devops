@@ -12,3 +12,4 @@
 11. 10-back -> a script that changes the working directory to the previous one.
 12. 11-lists -> A script to perform multi task
 13. 12-file_type -> A script to print file type
+14. 13-symbolic_link -> Creating a symbolic link to /bin/ls, named __ls__
