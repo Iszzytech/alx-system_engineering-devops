@@ -10,3 +10,4 @@
 9. 8-firstdelete -> Delete the file betty.
 10. 9-firstdirdeletion -> Delete the directory my_first_directory that is in the /tmp directory.
 11. 10-back -> a script that changes the working directory to the previous one.
+12. 11-lists -> A script to perform multi task
