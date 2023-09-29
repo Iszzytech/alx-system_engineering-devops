@@ -11,4 +11,5 @@
 10. 9-John_Doe -> A script that grnat permission to hello in the format rwxr-x-wx
 11. 10-mirror_permissions -> Mirroring permission from a file to another
 12. 11-directories_permissions -> A Script to add Executable permission to only sub-directories in a current directory leaving out other files
-13. 12-directory_permissions -> A script to create a dir with specified permission 
+13. 12-directory_permissions -> A script to create a dir with specified permission
+14. 13-change_group -> A script to change the group of a file. If the group isnot available you use sudo groupadd [group_name] 
