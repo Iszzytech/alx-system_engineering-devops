@@ -10,4 +10,5 @@
 9. 8-James_bond -> Write a script that sets the permission to the file helloto no owner, Group but User all permission
 10. 9-John_Doe -> A script that grnat permission to hello in the format rwxr-x-wx
 11. 10-mirror_permissions -> Mirroring permission from a file to another
-12. 11-directories_permissions -> A Script to add Executable permission to only sub-directories in a current directory leaving out other files 
+12. 11-directories_permissions -> A Script to add Executable permission to only sub-directories in a current directory leaving out other files
+13. 12-directory_permissions -> A script to create a dir with specified permission 
