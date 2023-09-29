@@ -14,4 +14,5 @@
 13. 12-directory_permissions -> A script to create a dir with specified permission
 14. 13-change_group -> A script to change the group of a file. If the group isnot available you use sudo groupadd [group_name]
 15. 100-change_owner_and_group -> This is to the change the owner and group of every files in a current directory
-16. 101-symbolic_link_permissions -> This is to change the owner and group of a symbolic link 
+16. 101-symbolic_link_permissions -> This is to change the owner and group of a symbolic link
+17. 102-if_only -> This is a script that changes the owner of the file hello to betty only if it is owned by the user guillaume. 
